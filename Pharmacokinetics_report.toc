@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}目的}{1}% 
+\contentsline {section}{\numberline {2}方法}{1}% 
+\contentsline {subsection}{\numberline {2.1}試薬}{1}% 
+\contentsline {subsection}{\numberline {2.2}器具}{2}% 
+\contentsline {subsection}{\numberline {2.3}方法}{2}% 
+\contentsline {subsubsection}{\numberline {2.3.1}実験1. 吸収過程を伴わない投与実験（静脈内投与を想定）}{2}% 
+\contentsline {subsubsection}{\numberline {2.3.2}実験2. 吸収過程を伴う投与実験（経口投与を想定）}{3}% 
+\contentsline {section}{\numberline {3}結果}{3}% 
+\contentsline {section}{\numberline {4}考察}{4}% 
+\contentsline {section}{\numberline {5}感想}{4}% 
